@@ -183,7 +183,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="border-t border-neon-cyan/20 bg-black/50 py-8 px-4">
         <div className="container mx-auto text-center text-muted-foreground">
-          <p>© 2025 سوق الحسابات. جميع الحقوق محفوظة.</p>
+          <p>© 2026 سوق الحسابات. جميع الحقوق محفوظة.</p>
         </div>
       </footer>
     </div>
